@@ -12,4 +12,4 @@
     -> Sklearn
     
 # GOOGLE COLLAB LINK
- [VISIT](https://colab.research.google.com/drive/1OnD_dnPXlb6ktPnGV5zEUYSKD01dpjtE#scrollTo=mF8G7hNWT5W0&uniqifier=1)
+ [VISIT GOOGLE COLLAB](https://colab.research.google.com/drive/1OnD_dnPXlb6ktPnGV5zEUYSKD01dpjtE#scrollTo=mF8G7hNWT5W0&uniqifier=1)
