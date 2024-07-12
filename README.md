@@ -1,4 +1,4 @@
-# Hello everyone, this is my first ever project in the journey on Machine Learning
+# Hello everyone, this is my first ever project in the journey of Machine Learning
 
 # DESCRIPTION :
     -> This is my first project based on Machine Learning
