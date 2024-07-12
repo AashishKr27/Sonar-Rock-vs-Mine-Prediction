@@ -6,7 +6,8 @@
     -> This project uses the "LOGISTIC REGRESSION" Model for prediction
     
 # LIBRARIES USED :
-    The project in implemented in Python on Google Collab, and the libraries used for the implementation of my project are
+    The project in implemented in Python on Google Collab,
+    and the libraries used for the implementation of my project are
     -> Numpy
     -> Pandas
     -> Sklearn
